@@ -59,13 +59,13 @@ const Detail = {
       // const date = new Date().toLocaleDateString('id-ID', { year: 'numeric', month: 'long', day: 'numeric'}),
 
       // const reviewData = `
-      //   <div class="reviewer-card">
-      //       <p class="reviewer-name">${name}</p>
-      //       <p class="reviewer-comment">${review}</p>
-      //       <p class="reviewer-date">${date}</p>
+      //   <div class="review_card">
+      //       <p class="review_name">${name}</p>
+      //       <p class="review_date">${date}</p>
+      //       <p class="review_comment">${review}</p>
       //   </div>
       // `;
-      // addReviewContainer.innerHTML += dataReview;
+      // addReviewContainer.innerHTML += reviewData;
       // };
 
     });
