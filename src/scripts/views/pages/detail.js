@@ -18,7 +18,7 @@ const Detail = {
             <input type="text" id="inputName"></input>
             <label for="inputReview">Review</label>
             <textarea id="inputReview"></textarea>
-            <button type="submit" class="submitReview">Send</button>
+            <button type="submit" id="submit" class="submitReview">Send</button>
           </form>
         </div>
       </div>
