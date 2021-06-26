@@ -12,5 +12,22 @@
         "sourceType": "module"
     },
     "rules": {
+        "linebreak-style": 0,
+        "no-console": "off",
+        "no-underscore-dangle": "off",
+        "no-restricted-globals": "off",
+        "import/no-extraneous-dependencies": "off",
+        "no-alert": "off",
+        "no-trailing-spaces": "off",
+        "no-undef": "off",
+        "no-return-assign": "off",
+        "no-prototype-builtins": "off",
+        "eol-last": "off",
+        "consistent-return": "off",
+        "import/prefer-default-export": "off",
+        "comma-dangle": "off",
+        "padded-blocks": "off",
+        "prefer-destructuring": "off",
+        "no-plusplus": "off"
     }
 }
